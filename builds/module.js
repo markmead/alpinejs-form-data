@@ -1,3 +1,3 @@
-import FILE from '../src/index.js'
+import formData from '../src/index.js'
 
-export default FILE
+export default formData
