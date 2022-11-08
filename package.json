@@ -1,12 +1,16 @@
 {
   "name": "alpinejs-form-data",
   "version": "1.0.0",
-  "description": "Description of the plugin",
+  "description": "Get the data from the form in a key/value pair of name and value 🥯",
   "keywords": [
     "Alpine",
     "Alpine JS",
     "Alpine JS Plugin",
-    "Alpine JS Plugins"
+    "Alpine JS Plugins",
+    "Alpine JS Form Data",
+    "Alpine JS Form",
+    "JavaScript Form Data",
+    "JavaScript Form"
   ],
   "module": "dist/form-data.esm.js",
   "unpkg": "dist/form-data.min.js",
