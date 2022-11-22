@@ -44,9 +44,22 @@ Alpine.start()
 
 On submit this will return the following:
 
-```js
-{title: 'The Title You Submitted', slug: 'the-slug-you-submitted'}
 ```
+{title: 'My New Blog Post', slug: 'my-new-blog-post'}
+```
+
+### Returning Data as Array
+
+You may want the data returned to be a nested array:
+
+```
+[
+  ['title', 'My New Blog Post'],
+  ['slug', 'my-new-blog-post'],
+]
+```
+
+To do this you can use `$formDataArray` instead of `$formData`.
 
 ## Stats
 
